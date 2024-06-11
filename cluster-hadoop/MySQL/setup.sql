@@ -1,0 +1,4 @@
+CREATE TABLE mytable (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    text_column TEXT NOT NULL
+);
